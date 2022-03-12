@@ -2,7 +2,7 @@
 
 # Temperature Converter
 
-![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=white&labelColor=grey&label=Built%20with&style=for-the-badge)
+![made-with-Python](https://img.shields.io/badge/Python-black?&logo=python&logoColor=white&labelColor=grey&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/TemperatureConverter?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/TemperatureConverter?color=yellow&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/seraph776/TemperatureConverter?style=for-the-badge)
