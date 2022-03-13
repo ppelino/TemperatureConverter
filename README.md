@@ -1,6 +1,6 @@
 <div align="center" id="header"> 
 
-# Temperature Converter 🌡️
+# Temperature Converter 
 
 ![made-with-Python](https://img.shields.io/badge/Python-2b1d14?&logo=python&logoColor=white&labelColor=grey&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/TemperatureConverter?style=for-the-badge)
