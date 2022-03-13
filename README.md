@@ -1,15 +1,12 @@
 <div align="center" id="header"> 
 
-# Temperature Converter
+# Temperature Converter 🌡️
 
 ![made-with-Python](https://img.shields.io/badge/Python-2b1d14?&logo=python&logoColor=white&labelColor=grey&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/TemperatureConverter?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/TemperatureConverter?color=yellow&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/seraph776/TemperatureConverter?style=for-the-badge)
  
-<img src="https://user-images.githubusercontent.com/72005563/158036903-a8e615ce-f675-4a60-9d93-067d00651930.png" width="275"/>
-
-
 
 
 🔎 [View Demo](https://github.com/seraph776/TemperatureConverter#header) · 🐛[Report Bug](https://github.com/seraph776/README-Template/issues) ·📫 [Contact me](https://github.com/seraph776/CodeCrypt776#contact)  
