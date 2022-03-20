@@ -9,7 +9,7 @@
  
 
 
-🔎 [View Demo](https://github.com/seraph776/TemperatureConverter#header) · 🐛[Report Bug](https://github.com/seraph776/README-Template/issues) ·📫 [Contact me](https://github.com/seraph776/CodeCrypt776#contact)  
+🔎 [View Demo](https://github.com/seraph776/TemperatureConverter#header) · 🐛[Report Bug](https://github.com/seraph776/TemperatureConverter/issues) ·📫 [Contact me](https://github.com/seraph776/CodeCrypt776#contact)  
  
 Show your support and give this repo a ⭐ 
 
